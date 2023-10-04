@@ -1,5 +1,5 @@
-Turma ADS 2 MB
-Membros do grupo:
+#Turma ADS 2 MB
+#Membros do grupo:
 
 1. Clara Batista Galeno (01611109)
 2. João Vitor Valentim da Silva (01622134)
@@ -12,3 +12,7 @@ Membros do grupo:
 9. Pedro Henrique Duarte da Silva (01583655)
 10. Tarcísio Marcos Ribeiro e Silva Filho (01607449)
 11. Thulio Gabriel da Silva (01594933)
+
+# Tech
+
+# Funcionalidades 
