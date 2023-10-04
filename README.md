@@ -1,5 +1,5 @@
-#Turma ADS 2 MB
-#Membros do grupo:
+# Turma ADS 2 MB
+# Membros do grupo:
 
 1. Clara Batista Galeno (01611109)
 2. João Vitor Valentim da Silva (01622134)
