@@ -19,17 +19,17 @@
 
 # Tech
 
-Clara Batista Galeno HTML e CSS
-João Vitor Valentim da Silva HTML e CSS       
-Lucas Falcão Pimentel HTML e CSS
-Lucas Miguel Eugênio HTML e CSS
-Marcello José Menezes de Medeiros Filho HTML e CSS
-Marcos Thúlio Souza Almeida da Silva HTML e CSS
-Mário Bezerra Romeiro Romeiro de Souza HTML e CSS
-Matheus Henrique Marques dos Santos HTML e CSS
-Pedro Henrique Duarte da Silva HTML e CSS
-Tarcísio Marcos Ribeiro e Silva Filho HTML e CSS
-Thulio Gabriel da Silva HTML e CSS
+1. Clara Batista Galeno HTML e CSS
+2. João Vitor Valentim da Silva HTML e CSS
+3. Lucas Falcão Pimentel HTML e CSS
+4. Lucas Miguel Eugênio HTML e CSS
+5. Marcello José Menezes de Medeiros Filho HTML e CSS
+6. Marcos Thúlio Souza Almeida da Silva HTML e CSS
+7. Mário Bezerra Romeiro Romeiro de Souza HTML e CSS
+8. Matheus Henrique Marques dos Santos HTML e CSS
+9. Pedro Henrique Duarte da Silva HTML e CSS
+10. Tarcísio Marcos Ribeiro e Silva Filho HTML e CSS
+11. Thulio Gabriel da Silva HTML e CSS
 
 
 
