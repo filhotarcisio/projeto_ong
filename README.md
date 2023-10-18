@@ -15,6 +15,21 @@
 
 # Tech
 
+Clara Batista Galeno HTML e CSS
+João Vitor Valentim da Silva HTML e CSS       Lucas Falcão Pimentel HTML e CSS
+Lucas Miguel Eugênio 
+Marcello José Menezes de Medeiros Filho 
+Marcos Thúlio Souza Almeida da Silva 
+Mário Bezerra Romeiro Romeiro de Souza
+Matheus Henrique Marques dos Santos
+Pedro Henrique Duarte da Silva 
+Tarcísio Marcos Ribeiro e Silva Filho 
+Thulio Gabriel da Silva 
+
+
+
+
+
 # Funcionalidades
 
 https://replit.com/join/ipylhvsace-pedroduartds 
