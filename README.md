@@ -4,9 +4,11 @@
   Este projeto foi feito para fins educativos por alunos do curso de Análise e Desenvolvimento de Sistemas da UNINASSAU, sendo um site fictício para a ONG Desafio Jovem do Recife, organização sem fins lucrativos se dedica a ajudar jovens a ajudar jovens marginalizados. Esse site inclui redirecionameto para abas: Sobre nós, Contato e Página inicial. Ainda em desenvolvimento, contará com constantes atualizações para incluir novas tecnologias e soluções. 
 
 ### Pagina Inicial do Site 
-<div align="center">
+<div align="left">
   <img height="250" src="https://cdn.discordapp.com/attachments/749999470334312478/1164287645514469437/image.png?ex=6542aa5e&is=6530355e&hm=b98f5a82feeeb7c705a1da4deeb3008eead0534eccd37aa833217b3c266850b5&"  />
 </div>
+
+###
 
 # Membros do grupo:
 
