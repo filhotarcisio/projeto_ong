@@ -15,4 +15,6 @@
 
 # Tech
 
-# Funcionalidades 
+# Funcionalidades
+
+https://replit.com/join/ipylhvsace-pedroduartds 
