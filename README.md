@@ -19,18 +19,8 @@
 
 # Tech
 
-1. Clara Batista Galeno - HTML e CSS
-2. João Vitor Valentim da Silva - HTML e CSS
-3. Lucas Falcão Pimentel - HTML e CSS
-4. Lucas Miguel Eugênio - HTML e CSS
-5. Marcello José Menezes de Medeiros Filho - HTML e CSS
-6. Marcos Thúlio Souza Almeida da Silva - HTML e CSS
-7. Mário Bezerra Romeiro Romeiro de Souza - HTML e CSS
-8. Matheus Henrique Marques dos Santos - HTML e CSS
-9. Pedro Henrique Duarte da Silva - HTML e CSS
-10. Tarcísio Marcos Ribeiro e Silva Filho - HTML e CSS
-11. Thulio Gabriel da Silva - HTML e CSS
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
 
