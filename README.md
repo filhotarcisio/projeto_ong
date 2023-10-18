@@ -8,7 +8,15 @@
   <img height="250" src="https://cdn.discordapp.com/attachments/749999470334312478/1164287645514469437/image.png?ex=6542aa5e&is=6530355e&hm=b98f5a82feeeb7c705a1da4deeb3008eead0534eccd37aa833217b3c266850b5&"  />
 </div>
 
-###
+### Pagina Sobre Nós
+<div align="left">
+  <img height="250" src="https://media.discordapp.net/attachments/749999470334312478/1164288405664956566/image.png?ex=6542ab13&is=65303613&hm=6511121dca76aeef067ea0f63c5b206a23b1ec9be59a262b9da8b3c39aeebb5c&=&width=980&height=486"  />
+</div>
+
+### Pagina Contatos
+<div align="left">
+  <img height="250" src="https://media.discordapp.net/attachments/749999470334312478/1164288489081274369/image.png?ex=6542ab27&is=65303627&hm=8e8e1b9173be4786c1a39ddbad11d29f0c57644b203b396b2762f2af78225828&=&width=980&height=486"  />
+</div>
 
 # Membros do grupo:
 
