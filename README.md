@@ -26,7 +26,7 @@
 4. Lucas Miguel Eugênio (01596020)
 5. Marcello José Menezes de Medeiros Filho (01345111)
 6. Marcos Thúlio Souza Almeida da Silva (01596867)
-7. Mário Bezerra Romeiro Romeiro de Souza (01597249)
+7. Mário Bezerra Romeiro de Souza (01597249)
 8. Matheus Henrique Marques dos Santos (01594386)
 9. Pedro Henrique Duarte da Silva (01583655)
 10. Tarcísio Marcos Ribeiro e Silva Filho (01607449)
